@@ -1,3 +1,4 @@
+PROJECT DESCRIPTION:-
 •	This project creates a basic voice-controlled virtual assistant with a graphical interface.
 •	The assistant can perform tasks like answering questions about its name, searching the web, finding locations on Google Maps, providing the current time, and playing music on YouTube.
 •	The GUI provides a user-friendly way to interact with the assistant.
